@@ -1,4 +1,7 @@
 Hi 👋, I'm Shard
-A API Developer And More!
+
+I do api developing, web developing, and many more!
+
+I create to inspire other people
 
 
